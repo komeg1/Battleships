@@ -1,6 +1,6 @@
 #include "Definitions.h"
 
-//wektor stworzony na podstawie wektora, który tworzyliœmy na wyk³adach
+
 
 void init(vector** v) {
     (*v)->i = 0;
