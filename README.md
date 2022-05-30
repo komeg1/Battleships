@@ -1,6 +1,6 @@
 # Battleships
 
-The aim of the project is to write a simple game Battleship. Then extend it, so it will become interesting.
+The aim of the project is to write a simple Battleship game. Then extend it, so it will become interesting.
 
 ## Goals:
 
